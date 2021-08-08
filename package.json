@@ -1,0 +1,11 @@
+{
+  "name": "subnet-search",
+  "author": "Tomas Smith (TomasSystems) <admin@tomas.systems>",
+  "repository": "https://github.com/tomassystems/subnet-search.git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "get-ip-range": "^4.0.1"
+  }
+}
